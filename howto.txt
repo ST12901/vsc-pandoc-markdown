@@ -1,0 +1,2 @@
+npm install
+~/.npm-pkgs/lib/node_modules/@vscode/vsce/vsce package
